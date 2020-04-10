@@ -35,7 +35,6 @@ public class RadixSort {
             divisor *= 10;
         }
 
-
     }
 
     private int findMax(int[] array) {
